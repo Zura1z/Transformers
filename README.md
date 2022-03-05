@@ -1,4 +1,7 @@
 # Transformers
+## LANGUAGE TRANSLATION WITH NN.TRANSFORMER AND TORCHTEXT
+This tutorial shows, how to train a translation model from scratch using Transformer. We will be using Multi30k dataset to train a German to English translation model.
+This notebook is implemented based on github repo of pytorch tutorial. Repo can be found [here](https://github.com/pytorch/tutorials/blob/master/beginner_source/translation_transformer.py)
 
 ## keyBERT
 KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
