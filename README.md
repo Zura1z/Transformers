@@ -26,7 +26,7 @@ If you don't want to run yourself, check this [kaggle](https://www.kaggle.com/zu
 
 
 ## Sentence Transformers
-* Multilingual Sentence, Paragraph, and Image Embeddings using BERT & Co. *
+* Multilingual Sentence, Paragraph, and Image Embeddings using BERT & Co. 
 
 This notebook is implemented based on github repo of Sentence Transformers. Repo can be found [here](https://github.com/UKPLab/sentence-transformers)
 
