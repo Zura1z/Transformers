@@ -23,3 +23,13 @@ This notebook is implemented based on github repo of BERTopic. Repo can be found
 If you want to explore through more functionalties of BERTopic. Check this [link](https://maartengr.github.io/BERTopic/index.html) out
 
 If you don't want to run yourself, check this [kaggle](https://www.kaggle.com/zuraiz/bertopic/) version of this repo!
+
+
+## Sentence Transformers
+* Multilingual Sentence, Paragraph, and Image Embeddings using BERT & Co. *
+
+This notebook is implemented based on github repo of Sentence Transformers. Repo can be found [here](https://github.com/UKPLab/sentence-transformers)
+
+If you want to explore through more functionalties of Sentence Transformers. Check this [link](https://www.sbert.net/) out
+
+If you don't want to run yourself, check this [kaggle](https://www.kaggle.com/zuraiz/sentence-transformers/) version of this repo!
